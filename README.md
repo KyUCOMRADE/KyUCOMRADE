@@ -24,8 +24,8 @@
 
 - 🌐 Portfolio: [Coming soon...]
 - 🐦 Twitter: https://x.com/josephcheg27035?t=FkjneiC3prcJO93p_WwV5g&s=09
-- 💼 LinkedIn: [your-name](https://linkedin.com/in/your-link)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/joseph-chege-6582902ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 Email: chegejoseph5006@gmail.com
 
 ---
 
