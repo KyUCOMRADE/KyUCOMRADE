@@ -16,7 +16,17 @@
 
 - **Languages:** Python, JavaScript, HTML, CSS, Bash  
 - **Tools:** Git & GitHub, VS Code, Termux, Linux  
-- **Learning:** React, Flask, Django
+- **Learning:** React, Flask, Django 
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JOSHTECH-tech&show_icons=true&theme=default&hide_title=true&count_private=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOSHTECH-tech&theme=default" />
+</p>
 
 ---
 
@@ -25,7 +35,7 @@
 - 🌐 Portfolio: [Coming soon...]
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 💼 LinkedIn: [your-name](https://linkedin.com/in/your-link)
-- 📧 Email: chegejoseph5006@gmail.com
+- 📧 Email: your.email@example.com
 
 ---
 
