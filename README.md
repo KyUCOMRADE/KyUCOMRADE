@@ -20,16 +20,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOSHTECH-tech&show_icons=true&theme=default&hide_title=true&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOSHTECH-tech&theme=default" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [Coming soon...]
