@@ -23,7 +23,7 @@
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [Coming soon...]
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🐦 Twitter: https://x.com/josephcheg27035?t=FkjneiC3prcJO93p_WwV5g&s=09
 - 💼 LinkedIn: [your-name](https://linkedin.com/in/your-link)
 - 📧 Email: your.email@example.com
 
