@@ -22,7 +22,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [Coming soon...]
+- 🌐 Portfolio: https://kyucomrade.github.io/My-Portfolio-/
 - 🐦 Twitter: https://x.com/josephcheg27035?t=FkjneiC3prcJO93p_WwV5g&s=09
 - 💼 LinkedIn: https://www.linkedin.com/in/joseph-chege-6582902ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 📧 Email: chegejoseph5006@gmail.com
