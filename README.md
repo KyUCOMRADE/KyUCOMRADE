@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, JavaScript, HTML, CSS, Bash  
+- **Languages:** Python, JavaScript, HTML, CSS, Java 
 - **Tools:** Git & GitHub, VS Code, Termux, Linux  
 - **Learning:** React, Flask, Django 
 
