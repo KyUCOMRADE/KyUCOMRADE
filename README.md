@@ -11,11 +11,6 @@
 🚀 Working on personal and open-source projects  
 🎯 Goal: Become a professional full-stack developer & launch impactful startups  
 ❤️ Passionate about tech, open-source, and solving real-world problems  
-
-📊 **GitHub Stats**  
-- 🟢 **48 contributions** so far  
-- ⭐ **15 stars** across repositories  
-
 ---
 
 ## 🛠 Tech Stack  
