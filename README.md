@@ -56,6 +56,9 @@
 
 > *"Code. Learn. Build. Repeat."*  
 
+Let's experience the 🌏 of code and it's magic 🧝‍♂️.
+ 
 Made with 💙 by **Joseph**
 
 ---
+
