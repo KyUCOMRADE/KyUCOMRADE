@@ -46,7 +46,7 @@
 ## 📫 Let's Connect  
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KyUCOMRADE)
 
-[![Twitter Profile](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josephcheg27035)
+[![X Profile](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josephcheg27035)
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-chege-6582902ab/)
 
