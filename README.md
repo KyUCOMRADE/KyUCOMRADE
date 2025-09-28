@@ -7,7 +7,8 @@
 ---
 
 🌍 From Kenya  
-💻 Currently learning **Software Engineering, Python, Database Design, Web Development V2, and Startup Building**  
+💻 Currently learning **Software Engineering, Python, Database Design, Web
+   Development V2, and Startup Building**  
 🚀 Working on personal and open-source projects  
 🎯 Goal: Become a professional full-stack developer & launch impactful startups  
 ❤️ Passionate about tech, open-source, and solving real-world problems  
