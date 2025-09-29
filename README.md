@@ -55,7 +55,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KyUCOMRADE&label=Profile%20Views&color=blue&style=flat)
 
-> *"Code. Learn. Build. Repeat."*  
+> *"Code. Learn. Build. Repeat. Enjoy."*  
 
 Let's experience the 🌏 of code and it's magic 🧝‍♂️.
  
