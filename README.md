@@ -27,8 +27,9 @@
 - 🌍 [**SDG AI Project**](https://github.com/KyUCOMRADE/SDG-AI-) – AI-powered solutions supporting UN Sustainable Development Goals  
 - 💼 [**Portfolio Website**](https://github.com/KyUCOMRADE/My-Portfolio-) – Personal developer portfolio showcasing my journey  
 - 🗄 [**Database System**](https://github.com/KyUCOMRADE/Database-System) – Structured database design with MySQL & best practices  
-- 🧠 **Neurolytics (Coming Soon)** – AI-driven startup project focusing on analytics & innovation  
-
+- 🧠 **Neurolytics (Coming Soon)** – AI-driven startup project focusing on analytics & innovation
+- 🈸 [**Mern Stack Apps](https://github.com/KyUCOMRADE)** - Fullstack Apps build with MERN technology found in my repositoeies.
+  
 ---
 
 ## 📊 GitHub Analytics  
@@ -59,7 +60,7 @@
 
 Let's experience the 🌏 of code and it's magic 🧝‍♂️.
  
-Made with 💙 by **Joseph**
+Made with 💙 by **Joseph Chege**
 
 ---
 
